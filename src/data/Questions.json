@@ -1,0 +1,31 @@
+[
+  {
+    "question": "What is Javascript?",
+    "choices": ["programming language", "function", "string", "None of the above"],
+    "type": "MCQs",
+    "correctAnswer": "programming language"
+  },
+  {
+    "question": "What is React?",
+    "choices": ["function", "componnet", "framework", "library"],
+    "type": "MCQs",
+    "correctAnswer": "library"
+  },
+  {
+    "question": "what is nodejs?",
+    "choices": [
+      "backened",
+      "frontend",
+      "database",
+      "All of the above"
+    ],
+    "type": "MCQs",
+    "correctAnswer": "backened"
+  },
+  {
+    "question": "which of these are used for fixed variable value?",
+    "choices": ["const", "var", "let", "constant"],
+    "type": "MCQs",
+    "correctAnswer": "const"
+  }
+]
